@@ -17,4 +17,5 @@ It uses a binary search algorithm to minimize the number of guesses.
 Make sure you have Python installed. Then run:
 
 ```bash
-python number_guess_game.py
+python number_guesser.py
+```
